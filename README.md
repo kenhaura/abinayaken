@@ -42,3 +42,4 @@ Setiap kali ada perubahan pada repository GitHub, **Vercel akan otomatis:**
 2. Hubungkan repositori ke [Vercel](https://vercel.com)
 3. Vercel otomatis mendeteksi perubahan dan menjalankan proses build dan deploy
 4. Hasil deploy bisa dilihat di URL seperti:
+https://uts-cloudcomputing.vercel.app/
